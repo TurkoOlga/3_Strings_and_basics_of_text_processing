@@ -19,7 +19,6 @@ public class Main {
                 outPut.append(wordChar[j]);
             }
         }
-
         System.out.println(outPut);
     }
 }
